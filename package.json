@@ -155,7 +155,7 @@
     "shx": "^0.3.2",
     "sinon": "^11.1.1",
     "tui-jsdoc-template": "^1.2.2",
-    "uglify-js": "^3.6.0",
+    "uglify-js": "^3.17.4",
     "unified": "^7.0.2",
     "videojs-generate-karma-config": "^7.1.0",
     "videojs-languages": "^2.0.0",
